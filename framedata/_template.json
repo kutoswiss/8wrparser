@@ -1,0 +1,132 @@
+{
+  "Name": "",
+  "MoveList": {
+    "HorizontalAttacks": [
+      {
+        "Name": "",
+        "Input": "",
+        "Levels": [],
+        "Properties": [],
+        "Impact": 0,
+        "Damage": 0,
+        "AdvOnHit": 0,
+        "AdvOnBlock": 0,
+        "AdvOnCounterHit": 0,
+        "Info": ""
+      }
+    ],
+    "VerticalAttacks": [
+      {
+        "Name": "",
+        "Input": "",
+        "Levels": [],
+        "Properties": [],
+        "Impact": 0,
+        "Damage": 0,
+        "AdvOnHit": 0,
+        "AdvOnBlock": 0,
+        "AdvOnCounterHit": 0,
+        "Info": ""
+      }
+    ],
+    "KickAttacks": [
+      {
+        "Name": "",
+        "Input": "",
+        "Levels": [],
+        "Properties": [],
+        "Impact": 0,
+        "Damage": 0,
+        "AdvOnHit": 0,
+        "AdvOnBlock": 0,
+        "AdvOnCounterHit": 0,
+        "Info": ""
+      }
+    ],
+    "MultiAttacks": [
+      {
+        "Name": "",
+        "Input": "",
+        "Levels": [],
+        "Properties": [],
+        "Impact": 0,
+        "Damage": 0,
+        "AdvOnHit": 0,
+        "AdvOnBlock": 0,
+        "AdvOnCounterHit": 0,
+        "Info": ""
+      }
+    ],
+    "RunAttacks": [
+      {
+        "Name": "",
+        "Input": "",
+        "Levels": [],
+        "Properties": [],
+        "Impact": 0,
+        "Damage": 0,
+        "AdvOnHit": 0,
+        "AdvOnBlock": 0,
+        "AdvOnCounterHit": 0,
+        "Info": ""
+      }
+    ],
+    "Throws": [
+      {
+        "Name": "",
+        "Input": "",
+        "Levels": [],
+        "Properties": [],
+        "Impact": 0,
+        "Damage": 0,
+        "AdvOnHit": 0,
+        "AdvOnBlock": 0,
+        "AdvOnCounterHit": 0,
+        "Info": ""
+      }
+    ],
+    "StanceAttacks": [
+      {
+        "Name": "",
+        "Input": "",
+        "Levels": [],
+        "Properties": [],
+        "Impact": 0,
+        "Damage": 0,
+        "AdvOnHit": 0,
+        "AdvOnBlock": 0,
+        "AdvOnCounterHit": 0,
+        "Info": ""
+      }
+    ],
+    "ReversalEdgeAttacks": [
+      {
+        "Name": "",
+        "Input": "",
+        "Levels": [],
+        "Properties": [],
+        "Impact": 0,
+        "Damage": 0,
+        "AdvOnHit": 0,
+        "AdvOnBlock": 0,
+        "AdvOnCounterHit": 0,
+        "Info": ""
+      }
+    ],
+    "GaugeAttacks": [
+      {
+        "Name": "",
+        "Input": "",
+        "Levels": [],
+        "Properties": [],
+        "Impact": 0,
+        "Damage": 0,
+        "AdvOnHit": 0,
+        "AdvOnBlock": 0,
+        "AdvOnCounterHit": 0,
+        "Info": ""
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,556 @@
+{
+    "Name": "Ivy",
+    "MoveList": {
+      "HorizontalAttacks": [
+        {
+          "Name": "Biting Raven",
+          "Input": "A",
+          "Levels": [
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 12,
+          "Damage": 9,
+          "AdvOnBlock": -8,
+          "AdvOnHit": -2,
+          "AdvOnCounterHit": 2,
+          "Info": "Cancelable with G"
+        },
+        {
+          "Name": "Biting Raven",
+          "Input": "AA",
+          "Levels": [
+            "H",
+            "H"
+          ],
+          "Properties": [
+            "LH"
+          ],
+          "Impact": 12,
+          "Damage": 26,
+          "AdvOnBlock": -12,
+          "AdvOnHit": 2,
+          "AdvOnCounterHit": 2
+        },
+        {
+          "Name": "Goverance",
+          "Input": "AK",
+          "Levels": [
+            "H",
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 12,
+          "Damage": 28,
+          "AdvOnBlock": -8,
+          "AdvOnHit": 6,
+          "AdvOnCounterHit": 6
+        },
+        {
+          "Name": "Cataclysm",
+          "Input": "6A",
+          "Levels": [
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 16,
+          "Damage": 12,
+          "AdvOnBlock": -16,
+          "AdvOnHit": -12,
+          "AdvOnCounterHit": -2
+        },
+        {
+          "Name": "Cataclysm",
+          "Input": "6AA",
+          "Levels": [
+            "H",
+            "M",
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 16,
+          "Damage": 44,
+          "AdvOnBlock": -4,
+          "AdvOnHit": 6,
+          "AdvOnCounterHit": 6
+        },
+        {
+          "Name": "Dashing Wind",
+          "Input": "6AK",
+          "Levels": [
+            "H",
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 16,
+          "Damage": 30,
+          "AdvOnBlock": 2,
+          "AdvOnHit": 6,
+          "AdvOnCounterHit": 6
+        },
+        {
+          "Name": "Tempting Tezhas",
+          "Input": "6(A)",
+          "Levels": [
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 20,
+          "Damage": 18,
+          "AdvOnBlock": -16,
+          "AdvOnHit": -4,
+          "AdvOnCounterHit": "KND"
+        },
+        {
+          "Name": "Tempting Tezhas (CH)",
+          "Input": "6AK",
+          "Levels": [
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 20,
+          "Damage": 41,
+          "AdvOnBlock": -16,
+          "AdvOnHit": "KND",
+          "AdvOnCounterHit": "KND",
+          "Info": "Shifts to attack upon hit"
+        },
+        {
+          "Name": "Raven Gash",
+          "Input": "3A",
+          "Levels": [
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 18,
+          "Damage": 18,
+          "AdvOnBlock": -6,
+          "AdvOnHit": 12,
+          "AdvOnCounterHit": 12
+        },
+        {
+          "Name": "Dancing Tezhas",
+          "Input": "3(A)",
+          "Levels": [
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 22,
+          "Damage": 16,
+          "AdvOnBlock": -12,
+          "AdvOnHit": 0,
+          "AdvOnCounterHit": 0
+        },
+        {
+          "Name": "Ancien Worshipper",
+          "Input": "2A",
+          "Levels": [
+            "SL"
+          ],
+          "Properties": [],
+          "Impact": 16,
+          "Damage": 10,
+          "AdvOnBlock": -10,
+          "AdvOnHit": -2,
+          "AdvOnCounterHit": -2
+        },
+        {
+          "Name": "Ancient Wheel",
+          "Input": "1A",
+          "Levels": [
+            "L"
+          ],
+          "Properties": [],
+          "Impact": 26,
+          "Damage": 12,
+          "AdvOnBlock": -18,
+          "AdvOnHit": -4,
+          "AdvOnCounterHit": -4
+        },
+        {
+          "Name": "Ancient Wheel",
+          "Input": "1AA",
+          "Levels": [
+            "L",
+            "L"
+          ],
+          "Properties": [],
+          "Impact": 26,
+          "Damage": 27,
+          "AdvOnBlock": -14,
+          "AdvOnHit": -2,
+          "AdvOnCounterHit": -2
+        },
+        {
+          "Name": "Dancing Insanity",
+          "Input": "4A",
+          "Levels": [
+            "H",
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 20,
+          "Damage": 20,
+          "AdvOnBlock": 0,
+          "AdvOnHit": 8,
+          "AdvOnCounterHit": 8
+        },
+        {
+          "Name": "Dancing Insanity ~ Serpent Embrace",
+          "Input": "4(A)",
+          "Levels": [
+            "H",
+            "H"
+          ],
+          "Properties": [
+            "SS"
+          ],
+          "Impact": 20,
+          "Damage": 20,
+          "AdvOnBlock": -4,
+          "AdvOnHit": 4,
+          "AdvOnCounterHit": 4
+        },
+        {
+          "Name": "Serpent's Venom",
+          "Input": "214A",
+          "Levels": [
+            "H"
+          ],
+          "Properties": [
+            "UA"
+          ],
+          "Impact": 54,
+          "Damage": 100,
+          "AdvOnBlock": "KND",
+          "AdvOnHit": "KND",
+          "AdvOnCounterHit": "KND",
+          "Info": "Cancelable with G"
+        },
+        {
+          "Name": "Ancient Worshipper",
+          "Input": "A",
+          "Levels": [
+            "SL"
+          ],
+          "Properties": [],
+          "Impact": 16,
+          "Damage": 10,
+          "AdvOnBlock": -10,
+          "AdvOnHit": -2,
+          "AdvOnCounterHit": -2
+        },
+        {
+          "Name": "Menace Slice",
+          "Input": "A",
+          "Levels": [
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 20,
+          "Damage": 30,
+          "AdvOnBlock": -4,
+          "AdvOnHit": 8,
+          "AdvOnCounterHit": "KND"
+        },
+        {
+          "Name": "Deceitful Raven",
+          "Input": "(A)",
+          "Levels": [
+            "H",
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 22,
+          "Damage": 14,
+          "AdvOnBlock": -16,
+          "AdvOnHit": -2,
+          "AdvOnCounterHit": -2
+        },
+        {
+          "Name": "Rising Raven",
+          "Input": "7*8*9A",
+          "Levels": [
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 28,
+          "Damage": 22,
+          "AdvOnBlock": -12,
+          "AdvOnHit": -4,
+          "AdvOnCounterHit": -4
+        },
+        {
+          "Name": "Scars of Memory",
+          "Input": "A",
+          "Levels": [
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 12,
+          "Damage": 19,
+          "AdvOnBlock": -8,
+          "AdvOnHit": "KND",
+          "AdvOnCounterHit": "KND"
+        },
+        {
+          "Name": "Screams of Paranoia",
+          "Input": "2A",
+          "Levels": [
+            "L"
+          ],
+          "Properties": [
+            "GI"
+          ],
+          "Impact": 22,
+          "Damage": 8,
+          "AdvOnBlock": -14,
+          "AdvOnHit": -6,
+          "AdvOnCounterHit": 4
+        },
+        {
+          "Name": "Screams of Paranoia",
+          "Input": "2AB",
+          "Levels": [
+            "L",
+            "M"
+          ],
+          "Properties": [
+            "GI"
+          ],
+          "Impact": 22,
+          "Damage": 32,
+          "AdvOnBlock": -14,
+          "AdvOnHit": "KND",
+          "AdvOnCounterHit": "KND"
+        }
+      ],
+      "VerticalAttacks": [
+        {
+          "Name": "Ode to Undine",
+          "Input": "B",
+          "Levels": [
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 16,
+          "Damage": 12,
+          "AdvOnBlock": -10,
+          "AdvOnHit": -4,
+          "AdvOnCounterHit": -4,
+          "Info": "Cancelable with G"
+        },
+        {
+          "Name": "Ode to Undine",
+          "Input": "BB",
+          "Levels": [
+            "M",
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 16,
+          "Damage": 28,
+          "AdvOnBlock": -10,
+          "AdvOnHit": -4,
+          "AdvOnCounterHit": -4
+        },
+        {
+          "Name": "Ode to Undine",
+          "Input": "BBB",
+          "Levels": [
+            "M",
+            "M",
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 16,
+          "Damage": 35,
+          "AdvOnBlock": -8,
+          "AdvOnHit": "RE",
+          "AdvOnCounterHit": "RE",
+          "Info": "Shifts to Clash upon hit / Never combos"
+        },
+        {
+          "Name": "Poisoned Destiny",
+          "Input": "(B)",
+          "Levels": [
+            "M",
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 16,
+          "Damage": 32,
+          "AdvOnBlock": -20,
+          "AdvOnHit": -10,
+          "AdvOnCounterHit": -10
+        },
+        {
+          "Name": "Raven's Egg",
+          "Input": "bA",
+          "Levels": [
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 18,
+          "Damage": 30,
+          "AdvOnBlock": -8,
+          "AdvOnHit": "KND",
+          "AdvOnCounterHit": "KND"
+        },
+        {
+          "Name": "Eclipse Raven",
+          "Input": "b(A)",
+          "Levels": [
+            "H",
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 22,
+          "Damage": 24,
+          "AdvOnBlock": -10,
+          "AdvOnHit": 6,
+          "AdvOnCounterHit": 6
+        },
+        {
+          "Name": "Darkside",
+          "Input": "b6",
+          "Levels": [
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 20,
+          "Damage": 20,
+          "AdvOnBlock": -8,
+          "AdvOnHit": 4,
+          "AdvOnCounterHit": 4,
+          "Info": "+10 on tip hit"
+        },
+        {
+          "Name": "Warning Mood",
+          "Input": "6B",
+          "Levels": [
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 18,
+          "Damage": 14,
+          "AdvOnBlock": -8,
+          "AdvOnHit": 0,
+          "AdvOnCounterHit": 0
+        },
+        {
+          "Name": "Warning Mood",
+          "Input": "6BA",
+          "Levels": [
+            "M",
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 18,
+          "Damage": 40,
+          "AdvOnBlock": -4,
+          "AdvOnHit": 0,
+          "AdvOnCounterHit": 0
+        },
+        {
+          "Name": "Warning Mood ~ Serpent's Embrace",
+          "Input": "6B(A)",
+          "Levels": [
+            "M",
+            "H"
+          ],
+          "Properties": [
+            "SS"
+          ],
+          "Impact": 18,
+          "Damage": 40,
+          "AdvOnBlock": 4,
+          "AdvOnHit": 8,
+          "AdvOnCounterHit": 8
+        },
+        {
+          "Name": "Warning Immortal",
+          "Input": "6BB",
+          "Levels": [
+            "M",
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 18,
+          "Damage": 34,
+          "AdvOnBlock": -8,
+          "AdvOnHit": 6,
+          "AdvOnCounterHit": 6
+        },
+        {
+          "Name": "Ivy Kick",
+          "Input": "6b8",
+          "Levels": [
+            "H"
+          ],
+          "Properties": [],
+          "Impact": 12,
+          "Damage": 20,
+          "AdvOnBlock": -20,
+          "AdvOnHit": -10,
+          "AdvOnCounterHit": -10
+        },
+        {
+          "Name": "Ivy Kick (against midair opponent)",
+          "Input": "6b8",
+          "Levels": [
+            "H"
+          ],
+          "Properties": [
+            "TH"
+          ],
+          "Impact": 12,
+          "Damage": 41,
+          "AdvOnBlock": "KND",
+          "AdvOnHit": "KND",
+          "AdvOnCounterHit": "KND"
+        },
+        {
+          "Name": "Silhouette",
+          "Input": "6b8K",
+          "Levels": [
+            "H",
+            "L"
+          ],
+          "Properties": [],
+          "Impact": 12,
+          "Damage": 36,
+          "AdvOnBlock": -14,
+          "AdvOnHit": 2,
+          "AdvOnCounterHit": 2
+        },
+        {
+          "Name": "Ivy Lash",
+          "Input": "6(B)",
+          "Levels": [
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 24,
+          "Damage": 14,
+          "AdvOnBlock": -16,
+          "AdvOnHit": -2,
+          "AdvOnCounterHit": -2
+        },
+        {
+          "Name": "Biting Ivy Inner",
+          "Input": "6(B)2*8",
+          "Levels": [
+            "M",
+            "M"
+          ],
+          "Properties": [],
+          "Impact": 24,
+          "Damage": 26,
+          "AdvOnBlock": -20,
+          "AdvOnHit": -6,
+          "AdvOnCounterHit": -6
+        }
+      ]
+    }
+  }
